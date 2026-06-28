@@ -325,3 +325,12 @@ curl "http://127.0.0.1:8000/reports/top-items?limit=5" \
 - Orders are intentionally immutable after creation; use the
   `complete`/`cancel` actions rather than `PUT`/`PATCH`/`DELETE` so inventory
   and table state stay consistent.
+## Screenshots
+<img width="995" height="53" alt="Screenshot 2026-06-28 134355" src="https://github.com/user-attachments/assets/075c78ba-f8b5-4a0a-a079-d2016a752e89" />
+<img width="1419" height="1077" alt="Screenshot 2026-06-28 134429" src="https://github.com/user-attachments/assets/8b47ac0d-8654-467c-8c46-3b40f33c6e72" />
+<img width="1421" height="1120" alt="Screenshot 2026-06-28 134405" src="https://github.com/user-attachments/assets/c77eb416-740c-4af8-8aef-f736efa154b6" />
+<img width="1424" height="1096" alt="Screenshot 2026-06-28 135656" src="https://github.com/user-attachments/assets/76407806-9411-46c6-b569-5e768f11c6dc" />
+<img width="1399" height="1065" alt="Screenshot 2026-06-28 134809" src="https://github.com/user-attachments/assets/d4aa0270-8b99-4acb-97e5-e59b84b1520a" />
+<img width="1433" height="1084" alt="Screenshot 2026-06-28 140739" src="https://github.com/user-attachments/assets/428826e3-f93d-4f7b-8466-b6c691519873" />
+<img width="1919" height="1101" alt="Screenshot 2026-06-28 140523" src="https://github.com/user-attachments/assets/44a75dd6-55a4-4401-b131-8b0753d99bcc" />
+<img width="1421" height="1116" alt="Screenshot 2026-06-28 135729" src="https://github.com/user-attachments/assets/cbfbd4a6-4c06-4090-aecf-5ab38ce08182" />
